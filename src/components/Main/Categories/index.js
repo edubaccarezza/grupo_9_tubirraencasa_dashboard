@@ -6,7 +6,7 @@ export default function Categories () {
 		<div className="col-lg-6 mb-4">						
 			<div className="card shadow mb-4">
 				<div className="card-header py-3">
-					<h6 className="m-0 font-weight-bold text-primary">Categories in Data Base</h6>
+					<h6 className="m-0 font-weight-bold text-primary">Productos por categorías</h6>
 				</div>
 				<div className="card-body">
 					<Category />
